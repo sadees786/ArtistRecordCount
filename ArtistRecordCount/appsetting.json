@@ -1,0 +1,11 @@
+
+  {
+    "Settings": {
+      "HostUri": "https://api.musixmatch.com/ws/1.1/track.search?apikey=6d88104e26ace5d2545e77a82240f0cd&format=json&q_artist=",
+      "ApiKey": "6d88104e26ace5d2545e77a82240f0cd",
+      "FilterParam": "q_artist",
+      "LyricsUri": "https://lyrist.vercel.app/api/"
+
+    }
+  }
+
